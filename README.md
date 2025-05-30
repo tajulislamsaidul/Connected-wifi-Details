@@ -34,7 +34,7 @@ Optional Parameters:
 
 ## 🔐 Example Dashboard
 
-![screenshot](https://your-screenshot-url.com/dashboard.png)
+ ![Image Alt](https://github.com/tajulislamsaidul/Connected-wifi-Details/blob/7096cbfc91b57cc21cbcc3d1f2fab3524e7768a2/DEMO.png)
 
 ## 🧠 AI & Security Insights
 
